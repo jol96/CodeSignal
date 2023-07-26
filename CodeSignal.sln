@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DBinaryMatrix", "2DBinaryMatrix\2DBinaryMatrix.csproj", "{98714B15-A4A9-4B66-8380-9873AD9BB4DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquidistantTriple", "EquidistantTriple\EquidistantTriple.csproj", "{9544DDAF-B6A1-4042-BE6D-A0BCBB2BE5AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palidrone", "Palidrone\Palidrone.csproj", "{C165C31D-6906-4350-ABD9-883D337754A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestAdjacentProduct", "LargestAdjacentProduct\LargestAdjacentProduct.csproj", "{22390070-1097-4839-ADE2-9EAFD7E3222B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeArrayConsectutive", "MakeArrayConsectutive\MakeArrayConsectutive.csproj", "{8D2A5773-F820-4889-A390-F68D0ADCEA22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NInterestingPolygon", "NInterestingPolygon\NInterestingPolygon.csproj", "{5075977C-82E6-4433-AFB3-60368D6FB89F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98714B15-A4A9-4B66-8380-9873AD9BB4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98714B15-A4A9-4B66-8380-9873AD9BB4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98714B15-A4A9-4B66-8380-9873AD9BB4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98714B15-A4A9-4B66-8380-9873AD9BB4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9544DDAF-B6A1-4042-BE6D-A0BCBB2BE5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9544DDAF-B6A1-4042-BE6D-A0BCBB2BE5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9544DDAF-B6A1-4042-BE6D-A0BCBB2BE5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9544DDAF-B6A1-4042-BE6D-A0BCBB2BE5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C165C31D-6906-4350-ABD9-883D337754A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C165C31D-6906-4350-ABD9-883D337754A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C165C31D-6906-4350-ABD9-883D337754A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C165C31D-6906-4350-ABD9-883D337754A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22390070-1097-4839-ADE2-9EAFD7E3222B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22390070-1097-4839-ADE2-9EAFD7E3222B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22390070-1097-4839-ADE2-9EAFD7E3222B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22390070-1097-4839-ADE2-9EAFD7E3222B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2A5773-F820-4889-A390-F68D0ADCEA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2A5773-F820-4889-A390-F68D0ADCEA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2A5773-F820-4889-A390-F68D0ADCEA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2A5773-F820-4889-A390-F68D0ADCEA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5075977C-82E6-4433-AFB3-60368D6FB89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5075977C-82E6-4433-AFB3-60368D6FB89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5075977C-82E6-4433-AFB3-60368D6FB89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5075977C-82E6-4433-AFB3-60368D6FB89F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC3DF2F0-AA2F-4F39-B201-15FB05CF65DD}
+	EndGlobalSection
+EndGlobal
