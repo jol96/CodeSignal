@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortByHeight", "SortByHeigh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInParenteses", "ReverseInParenteses\ReverseInParenteses.csproj", "{04AE0480-372F-4B0E-924E-34D125E7F965}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternatingSums", "AlternatingSums\AlternatingSums.csproj", "{2F5EF1C2-A1AB-43A7-BF9D-C4CDC8E19791}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{04AE0480-372F-4B0E-924E-34D125E7F965}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04AE0480-372F-4B0E-924E-34D125E7F965}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04AE0480-372F-4B0E-924E-34D125E7F965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F5EF1C2-A1AB-43A7-BF9D-C4CDC8E19791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5EF1C2-A1AB-43A7-BF9D-C4CDC8E19791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5EF1C2-A1AB-43A7-BF9D-C4CDC8E19791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5EF1C2-A1AB-43A7-BF9D-C4CDC8E19791}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
