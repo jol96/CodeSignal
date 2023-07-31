@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DBinaryMatrix", "2DBinaryMatrix\2DBinaryMatrix.csproj", "{98714B15-A4A9-4B66-8380-9873AD9BB4DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DBinaryMatrix", "2DBinaryMatrix\2DBinaryMatrix.csproj", "{98714B15-A4A9-4B66-8380-9873AD9BB4DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquidistantTriple", "EquidistantTriple\EquidistantTriple.csproj", "{9544DDAF-B6A1-4042-BE6D-A0BCBB2BE5AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EquidistantTriple", "EquidistantTriple\EquidistantTriple.csproj", "{9544DDAF-B6A1-4042-BE6D-A0BCBB2BE5AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palidrone", "Palidrone\Palidrone.csproj", "{C165C31D-6906-4350-ABD9-883D337754A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palidrone", "Palidrone\Palidrone.csproj", "{C165C31D-6906-4350-ABD9-883D337754A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestAdjacentProduct", "LargestAdjacentProduct\LargestAdjacentProduct.csproj", "{22390070-1097-4839-ADE2-9EAFD7E3222B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestAdjacentProduct", "LargestAdjacentProduct\LargestAdjacentProduct.csproj", "{22390070-1097-4839-ADE2-9EAFD7E3222B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeArrayConsectutive", "MakeArrayConsectutive\MakeArrayConsectutive.csproj", "{8D2A5773-F820-4889-A390-F68D0ADCEA22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeArrayConsectutive", "MakeArrayConsectutive\MakeArrayConsectutive.csproj", "{8D2A5773-F820-4889-A390-F68D0ADCEA22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NInterestingPolygon", "NInterestingPolygon\NInterestingPolygon.csproj", "{5075977C-82E6-4433-AFB3-60368D6FB89F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NInterestingPolygon", "NInterestingPolygon\NInterestingPolygon.csproj", "{5075977C-82E6-4433-AFB3-60368D6FB89F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlmostIncreasingSequence", "AlmostIncreasingSequence\AlmostIncreasingSequence.csproj", "{EFD7FC84-06C3-407A-9E31-4DD709CEDBF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatricElementSum", "MatricElementSum\MatricElementSum.csproj", "{66DCAB29-89DF-42E6-B4F2-C563200878ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{5075977C-82E6-4433-AFB3-60368D6FB89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5075977C-82E6-4433-AFB3-60368D6FB89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5075977C-82E6-4433-AFB3-60368D6FB89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD7FC84-06C3-407A-9E31-4DD709CEDBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD7FC84-06C3-407A-9E31-4DD709CEDBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD7FC84-06C3-407A-9E31-4DD709CEDBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD7FC84-06C3-407A-9E31-4DD709CEDBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66DCAB29-89DF-42E6-B4F2-C563200878ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DCAB29-89DF-42E6-B4F2-C563200878ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DCAB29-89DF-42E6-B4F2-C563200878ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DCAB29-89DF-42E6-B4F2-C563200878ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -19,12 +19,9 @@
             for (int j = i + 1; j < coordinateLength; j++)
             {
                 int firstDistance = coordinates[j] - coordinates[i];
-
                 for (int k = 0; k < coordinateLength; k++)
                 {
-
                     int secondDistance = (k != i && k != j) ? coordinates[k] - coordinates[j] : 0;
-
                     if (firstDistance == secondDistance)
                     {
                         count++;
@@ -33,7 +30,6 @@
                 }
             }
         }
-
         return count;
     }
 
