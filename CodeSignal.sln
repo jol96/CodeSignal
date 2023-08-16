@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrictlyIncreasingSequence"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindroneRearrange", "PalindroneRearrange\PalindroneRearrange.csproj", "{CF31C4AC-6917-4C29-B93E-D6CA4453C4BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreEquallyStrong", "AreEquallyStrong\AreEquallyStrong.csproj", "{DA4DA8EF-22EF-4B95-8FB9-6F84C7EA7006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayAbsoluteDifference", "ArrayAbsoluteDifference\ArrayAbsoluteDifference.csproj", "{4AF55954-782A-4333-B102-1EA0C792518E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{CF31C4AC-6917-4C29-B93E-D6CA4453C4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF31C4AC-6917-4C29-B93E-D6CA4453C4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF31C4AC-6917-4C29-B93E-D6CA4453C4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4DA8EF-22EF-4B95-8FB9-6F84C7EA7006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4DA8EF-22EF-4B95-8FB9-6F84C7EA7006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4DA8EF-22EF-4B95-8FB9-6F84C7EA7006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4DA8EF-22EF-4B95-8FB9-6F84C7EA7006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF55954-782A-4333-B102-1EA0C792518E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF55954-782A-4333-B102-1EA0C792518E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF55954-782A-4333-B102-1EA0C792518E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF55954-782A-4333-B102-1EA0C792518E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
