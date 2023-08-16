@@ -63,7 +63,14 @@
             new char[] { '1', '0', '0', '1', '0' }
         };
 
-        int result = MaximalSquare(matrix);
+        char[][] matrix2 = new char[][] {
+            new char[] { '1', '1', '1', '1' },
+            new char[] { '1', '1', '1', '1' },
+            new char[] { '1', '1', '1', '1' },
+            new char[] { '1', '1', '1', '1' }
+        };
+
+        int result = MaximalSquare(matrix2);
         Console.WriteLine("Largest square area containing only 1s: " + result);
     }
 }
